@@ -10,11 +10,16 @@ Post build command copys .dll file to BakkesModSDK/plugins folder with "bakkes_p
 
 
 Once built, load in BakkesMod command terminal with 
--"plugin load SpeedAndFlipIndicatorPlugin"
--"speedandflip_enabled 1"
+- "plugin load SpeedAndFlipIndicatorPlugin"
+- "speedandflip_enabled 1"
 
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/37971619/119270524-087b8500-bbcb-11eb-8be1-e6d1fea44352.png)
 
 
 Screenshot above shows what indicator will look like. Useful for practicing flip resets.
+
+
+Possible Problems:
+- BakkesModSDK environment variable not set correctly, affects paths to include and lib directories.
+- Post-build command: python not installed, python not a path variable, "bakkes_patchplugin.py" not pointing to proper plugins directory.
