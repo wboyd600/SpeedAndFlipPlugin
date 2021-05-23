@@ -16,8 +16,9 @@ Once built, load in BakkesMod command terminal with
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/37971619/119270524-087b8500-bbcb-11eb-8be1-e6d1fea44352.png)
 
+![Screenshot (2)](https://user-images.githubusercontent.com/37971619/119270791-62307f00-bbcc-11eb-9f15-01c4793bed4d.png)
 
-Screenshot above shows what indicator will look like. Useful for practicing flip resets.
+Screenshots above shows what indicator will look like. Useful for practicing flip resets.
 
 
 Possible Problems:
