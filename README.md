@@ -14,3 +14,7 @@ Once built, load in BakkesMod command terminal with
 -"speedandflip_enabled 1"
 
 
+![Screenshot (1)](https://user-images.githubusercontent.com/37971619/119270524-087b8500-bbcb-11eb-8be1-e6d1fea44352.png)
+
+
+Screenshot above shows what indicator will look like. Useful for practicing flip resets.
