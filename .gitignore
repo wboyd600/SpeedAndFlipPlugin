@@ -1,3 +1,4 @@
-SpeedAndFlipIndicatorPlugin/Debug/*
-SpeedAndFlipIndicatorPlugin/x64/*
+SpeedAndFlipIndicatorPlugin/.vs/
+SpeedAndFlipIndicatorPlugin/Debug/
+SpeedAndFlipIndicatorPlugin/x64/
 SpeedAndFlipIndicatorPlugin/SpeedAndFlipIndicatorPlugin.vcxproj.user
